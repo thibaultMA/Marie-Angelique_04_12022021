@@ -1,0 +1,42 @@
+.keywords,
+p{
+    font-size: 15px;
+    font-weight:500;
+}
+.text-modif{
+    max-width: 575px ;
+    margin:auto;
+    text-align:center;
+}
+.citation{
+    margin-top: 10px;
+    font-size: 14px;
+    color: #838383 !important;
+}
+                    /* style.css ligne 824 */
+.bg-presentation {
+    background-image: url("../img/image-de-presentation-ConvertImage.jpg");
+}               
+                /* style.css ligne 777 */
+.tc-white {
+    color: #000!important;
+}
+
+.pret,
+#bloc-1-hero h1{
+    color:#ffffff !important;
+    font-weight: bold;
+}
+.fa-twitter:before,
+.fa-facebook-f:before, 
+.fa-facebook:before,
+.fa-dribbble:before,
+.fa-instagram:before
+{
+    color:initial;
+}
+                /* style.css ligne 651 */
+#bloc-8 li a{
+    font-size: 15px;
+    color: #3e3e3e !important;
+}
