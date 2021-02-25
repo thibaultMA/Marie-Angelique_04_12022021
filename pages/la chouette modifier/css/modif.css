@@ -52,7 +52,10 @@ p{
     padding: 0;
     
 }
-form#form_1 div.form-group label{
+form#form_1 div.form-group label,
+#adresse,
+#btn,
+#p{
     color: #171717 !important;
 }
 .bloc-bg-texture::before{
