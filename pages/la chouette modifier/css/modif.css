@@ -40,3 +40,31 @@ p{
     font-size: 15px;
     color: #3e3e3e !important;
 }
+
+                                            /* page contact */
+.nav-modif{
+    width: auto;
+}
+.form-contact-modif {
+    margin:  auto auto 10px;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    
+}
+form#form_1 div.form-group label{
+    color: #171717 !important;
+}
+.bloc-bg-texture::before{
+    content: none;
+}
+.bloc-contact{
+    margin: 30px;
+    height: 100%;
+}
+#form_1 div{
+    margin: 10px;
+}
+#form_1 input{
+    float: right;
+}
