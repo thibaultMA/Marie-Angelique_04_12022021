@@ -13,11 +13,11 @@ p{
     font-size: 14px;
     color: #838383 !important;
 }
-                    /* style.css ligne 824 */
+
 .bg-presentation {
     background-image: url("../img/image-de-presentation-ConvertImage.jpg");
 }               
-                /* style.css ligne 777 */
+
 .tc-white {
     color: #000!important;
 }
@@ -35,7 +35,7 @@ p{
 {
     color:initial;
 }
-                /* style.css ligne 651 */
+
 #bloc-8 li a{
     font-size: 15px;
     color: #3e3e3e !important;
