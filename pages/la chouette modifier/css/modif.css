@@ -26,6 +26,7 @@ p{
 #bloc-1-hero h1{
     color:#ffffff !important;
     font-weight: bold;
+    padding:0 20px !important;
 }
 .fa-twitter:before,
 .fa-facebook-f:before, 
