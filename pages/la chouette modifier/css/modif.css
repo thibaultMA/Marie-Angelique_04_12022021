@@ -61,12 +61,18 @@ form#form_1 div.form-group label,
 }
 .bloc-bg-texture::before{
     content: none;
-}
-.bloc-contact{
+} 
+#form-contact{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
     margin: 30px;
     height: 100%;
 }
-#form_1 div{
+#form-contact div{
+    display: inline-block;
+}
+ #form_1 div{ 
     margin: 10px;
 }
 #form_1 input{
